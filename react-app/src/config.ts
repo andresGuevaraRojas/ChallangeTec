@@ -1,0 +1,1 @@
+export const ApiEndpoint = "https://randomuser.me/api"
